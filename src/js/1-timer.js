@@ -26,7 +26,7 @@ const options = {
         position: "topRight",
         messageColor: "#fff",
         titleColor: "#fff",
-        backgroundColor: "#ef4040",
+        backgroundColor: "#ef4040"
       });
       userSelectedDate = null;
       startBtn.disabled = true;
